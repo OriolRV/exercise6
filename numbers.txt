@@ -1,1 +1,5 @@
-2, 1, A, 6, yu
+This text is written by Alice.
+These where the original numbers:
+1, 2, 3, 4, 5, 6,7, 8, 9, 10
+These are the new numbers:
+11, 12
